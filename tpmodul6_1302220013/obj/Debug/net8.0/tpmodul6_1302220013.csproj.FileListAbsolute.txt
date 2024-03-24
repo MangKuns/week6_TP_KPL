@@ -1,0 +1,15 @@
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\bin\Debug\net8.0\tpmodul6_1302220013.exe
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\bin\Debug\net8.0\tpmodul6_1302220013.deps.json
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\bin\Debug\net8.0\tpmodul6_1302220013.runtimeconfig.json
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\bin\Debug\net8.0\tpmodul6_1302220013.dll
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\bin\Debug\net8.0\tpmodul6_1302220013.pdb
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\obj\Debug\net8.0\tpmodul6_1302220013.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\obj\Debug\net8.0\tpmodul6_1302220013.AssemblyInfoInputs.cache
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\obj\Debug\net8.0\tpmodul6_1302220013.AssemblyInfo.cs
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\obj\Debug\net8.0\tpmodul6_1302220013.csproj.CoreCompileInputs.cache
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\obj\Debug\net8.0\tpmodul6_1302220013.sourcelink.json
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\obj\Debug\net8.0\tpmodul6_1302220013.dll
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\obj\Debug\net8.0\refint\tpmodul6_1302220013.dll
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\obj\Debug\net8.0\tpmodul6_1302220013.pdb
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\obj\Debug\net8.0\tpmodul6_1302220013.genruntimeconfig.cache
+D:\Kuliah Universitas Telkom\Semester4\KPL\tpmodul6_1302220013\tpmodul6_1302220013\obj\Debug\net8.0\ref\tpmodul6_1302220013.dll
